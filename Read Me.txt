@@ -1,0 +1,2 @@
+ In this project, I recreate the design and functionality of an OTT (Over-The-Top) platform website Netflix.
+ This task test my skills in front-end development and user interface design.
